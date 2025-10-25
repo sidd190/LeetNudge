@@ -2,4 +2,4 @@ A leetcode companion as one would like, eliminate your doubts and dsa skills by 
 
 Currently work in progres..
 
-!(System Design)[SystemDesign.png]
+!(System Design)[./SystemDesign.png]
